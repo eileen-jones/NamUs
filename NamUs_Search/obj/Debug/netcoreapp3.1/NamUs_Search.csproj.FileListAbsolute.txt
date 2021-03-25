@@ -1,0 +1,16 @@
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\bin\Debug\netcoreapp3.1\NamUs_Search.exe
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\bin\Debug\netcoreapp3.1\NamUs_Search.deps.json
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\bin\Debug\netcoreapp3.1\NamUs_Search.runtimeconfig.json
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\bin\Debug\netcoreapp3.1\NamUs_Search.runtimeconfig.dev.json
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\bin\Debug\netcoreapp3.1\NamUs_Search.dll
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\bin\Debug\netcoreapp3.1\NamUs_Search.pdb
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\obj\Debug\netcoreapp3.1\NamUs_Search.csprojAssemblyReference.cache
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\obj\Debug\netcoreapp3.1\NamUs_Search.AssemblyInfoInputs.cache
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\obj\Debug\netcoreapp3.1\NamUs_Search.AssemblyInfo.cs
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\obj\Debug\netcoreapp3.1\NamUs_Search.csproj.CoreCompileInputs.cache
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\obj\Debug\netcoreapp3.1\NamUs_Search.csproj.CopyComplete
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\obj\Debug\netcoreapp3.1\NamUs_Search.dll
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\obj\Debug\netcoreapp3.1\NamUs_Search.pdb
+C:\Users\eilee\source\repos\NamUs_Search\NamUs_Search\obj\Debug\netcoreapp3.1\NamUs_Search.genruntimeconfig.cache
